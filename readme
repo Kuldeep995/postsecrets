@@ -1,0 +1,7 @@
+Link to the webapp : https://powerful-oasis-46887.herokuapp.com
+
+Features: 
+# Different users can register to the application
+# Then login using same credentials
+# They can then see the secrets page containing secrets of different people
+# They can also post one of their secret, without reveling their identity
